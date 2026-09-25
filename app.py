@@ -1,2 +1,3 @@
 def multiply(a, b):
-    return a + b
+     # BUG: This should multiply the values, but currently adds them.
+    return a + b 
